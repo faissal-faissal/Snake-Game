@@ -1,0 +1,11 @@
+body {
+	background: linear-gradient(to bottom right, #29323c, #485563);
+    background:  radial-gradient(#29323c, black ) ;
+}
+h1 {
+	padding-top: 20px;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	color: #06f606;
+}
